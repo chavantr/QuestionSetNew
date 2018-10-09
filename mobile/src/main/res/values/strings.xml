@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuestionSet</string>
+    <string name="enter_username">Enter username</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="enter_last_name">Enter last name</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_highest_qualification">Enter highest qualification</string>
+    <string name="cancel">Cancel</string>
+</resources>
